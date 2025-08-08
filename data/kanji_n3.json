@@ -1,0 +1,44 @@
+[
+  {
+    "id": "n3-001",
+    "kanji": "増",
+    "meanings": [
+      "aumentare",
+      "increase"
+    ],
+    "onyomi": [
+      "ゾウ"
+    ],
+    "kunyomi": [
+      "ふ.える"
+    ],
+    "examples": [
+      {
+        "jp": "増える",
+        "romaji": "fueru",
+        "it": "aumentare"
+      }
+    ]
+  },
+  {
+    "id": "n3-002",
+    "kanji": "減",
+    "meanings": [
+      "diminuire",
+      "decrease"
+    ],
+    "onyomi": [
+      "ゲン"
+    ],
+    "kunyomi": [
+      "へ.る"
+    ],
+    "examples": [
+      {
+        "jp": "減る",
+        "romaji": "heru",
+        "it": "diminuire"
+      }
+    ]
+  }
+]

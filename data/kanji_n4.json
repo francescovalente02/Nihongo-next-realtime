@@ -1,0 +1,45 @@
+[
+  {
+    "id": "n4-001",
+    "kanji": "食",
+    "meanings": [
+      "mangiare",
+      "food"
+    ],
+    "onyomi": [
+      "ショク"
+    ],
+    "kunyomi": [
+      "た.べる",
+      "く.う"
+    ],
+    "examples": [
+      {
+        "jp": "食べる",
+        "romaji": "taberu",
+        "it": "mangiare"
+      }
+    ]
+  },
+  {
+    "id": "n4-002",
+    "kanji": "近",
+    "meanings": [
+      "vicino",
+      "near"
+    ],
+    "onyomi": [
+      "キン"
+    ],
+    "kunyomi": [
+      "ちか.い"
+    ],
+    "examples": [
+      {
+        "jp": "近い",
+        "romaji": "chikai",
+        "it": "vicino"
+      }
+    ]
+  }
+]

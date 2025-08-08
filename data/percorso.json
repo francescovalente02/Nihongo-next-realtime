@@ -1,0 +1,200 @@
+{
+  "chapters": [
+    {
+      "id": "c1",
+      "title": "Base N4 – Frasi semplici",
+      "lessons": [
+        {
+          "id": "c1l1",
+          "title": "Lezione 1"
+        },
+        {
+          "id": "c1l2",
+          "title": "Lezione 2"
+        },
+        {
+          "id": "c1l3",
+          "title": "Lezione 3"
+        },
+        {
+          "id": "c1l4",
+          "title": "Lezione 4"
+        },
+        {
+          "id": "c1l5",
+          "title": "Lezione 5"
+        },
+        {
+          "id": "c1l6",
+          "title": "Lezione 6"
+        },
+        {
+          "id": "c1l7",
+          "title": "Lezione 7"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Verbi forma -te & richieste",
+      "lessons": [
+        {
+          "id": "c2l1",
+          "title": "Lezione 1"
+        },
+        {
+          "id": "c2l2",
+          "title": "Lezione 2"
+        },
+        {
+          "id": "c2l3",
+          "title": "Lezione 3"
+        },
+        {
+          "id": "c2l4",
+          "title": "Lezione 4"
+        },
+        {
+          "id": "c2l5",
+          "title": "Lezione 5"
+        },
+        {
+          "id": "c2l6",
+          "title": "Lezione 6"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "title": "Particelle に/で/へ – uso corretto",
+      "lessons": [
+        {
+          "id": "c3l1",
+          "title": "Lezione 1"
+        },
+        {
+          "id": "c3l2",
+          "title": "Lezione 2"
+        },
+        {
+          "id": "c3l3",
+          "title": "Lezione 3"
+        },
+        {
+          "id": "c3l4",
+          "title": "Lezione 4"
+        },
+        {
+          "id": "c3l5",
+          "title": "Lezione 5"
+        },
+        {
+          "id": "c3l6",
+          "title": "Lezione 6"
+        },
+        {
+          "id": "c3l7",
+          "title": "Lezione 7"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "title": "Kanji N4 frequenti (I)",
+      "lessons": [
+        {
+          "id": "c4l1",
+          "title": "Lezione 1"
+        },
+        {
+          "id": "c4l2",
+          "title": "Lezione 2"
+        },
+        {
+          "id": "c4l3",
+          "title": "Lezione 3"
+        },
+        {
+          "id": "c4l4",
+          "title": "Lezione 4"
+        },
+        {
+          "id": "c4l5",
+          "title": "Lezione 5"
+        },
+        {
+          "id": "c4l6",
+          "title": "Lezione 6"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "title": "Grammatica N3 introduttiva (I)",
+      "lessons": [
+        {
+          "id": "c5l1",
+          "title": "Lezione 1"
+        },
+        {
+          "id": "c5l2",
+          "title": "Lezione 2"
+        },
+        {
+          "id": "c5l3",
+          "title": "Lezione 3"
+        },
+        {
+          "id": "c5l4",
+          "title": "Lezione 4"
+        },
+        {
+          "id": "c5l5",
+          "title": "Lezione 5"
+        },
+        {
+          "id": "c5l6",
+          "title": "Lezione 6"
+        },
+        {
+          "id": "c5l7",
+          "title": "Lezione 7"
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "title": "Kanji N3 frequenti (I)",
+      "lessons": [
+        {
+          "id": "c6l1",
+          "title": "Lezione 1"
+        },
+        {
+          "id": "c6l2",
+          "title": "Lezione 2"
+        },
+        {
+          "id": "c6l3",
+          "title": "Lezione 3"
+        },
+        {
+          "id": "c6l4",
+          "title": "Lezione 4"
+        },
+        {
+          "id": "c6l5",
+          "title": "Lezione 5"
+        },
+        {
+          "id": "c6l6",
+          "title": "Lezione 6"
+        },
+        {
+          "id": "c6l7",
+          "title": "Lezione 7"
+        }
+      ]
+    }
+  ]
+}
